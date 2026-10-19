@@ -1,0 +1,22 @@
+{
+  "wheel_id": 447,
+  "structure": "umbrella",
+  "slug": "retainingwallsnewcastle-103",
+  "project": "retaining-wall-builders-newcastle-what-to-expect-838682b9198",
+  "parent_t1_ref": "retainingwallsnewcastle-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallsnewcastle.com.au",
+  "primary_kw": "retaining wall builders newcastle what to expect",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-newcastle-what-to-expect-838682b9198/",
+  "tier": "T2",
+  "writeback_nonce": "32be5cefee58dd46",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-builders-newcastle-158a5f611176b848a26ff52cd1938/",
+      "anchor": "this retaining wall builders newcastle guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
